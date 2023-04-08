@@ -10,12 +10,12 @@ When the user views the time blocks for that day, each time block is color-coded
 
 When the user clicks into a time block, they can enter an event.
 
-When the user clicks the save button fro that time block, the text for that event is saved in local storage.
+When the user clicks the save button for that time block, the text for that event is saved in local storage.
 
 When the user refreshes the page, their saved events persist.
 
 ## Screenshot
-
+![work-day-scheduler](images/work-day-scheduler.png)
 
 
 ## Deployment 
